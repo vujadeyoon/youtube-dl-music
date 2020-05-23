@@ -56,4 +56,4 @@ C. Get the audio with the specific quality form the YouTube.
 usrname@hostname:~/curr_path$ bash bash_get_mp3.sh [URL] [NAME_MP3] [FORMAT]
 ```
 
-- Please note that the parameters, [URL], [NAME_MP3], [FORMAT}, indicate youtube url, a name of mp3 to be saved and an audio quality that is checked in the subsection 2-C, respectively.
+- Please note that the parameters, [URL], [NAME_MP3], [FORMAT], indicate youtube url, a name of mp3 to be saved and an audio quality that is checked in the subsection 2-C, respectively.
