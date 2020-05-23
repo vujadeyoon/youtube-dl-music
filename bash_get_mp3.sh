@@ -70,7 +70,7 @@ case ${cumsum_params} in
 	cd ./_tmp_youtube_dl
 	youtube-dl -f ${FORMAT} ${URL}
 	mv ./*.webm ./youtube_dl_music.webm
-	ffmpeg -i ./*.webm -vn -ab 256k -ar 44100 -y ../${NAME_MP3}.mp3
+	ffmpeg -i ./* -vn -ab 256k -ar 44100 -y ../${NAME_MP3}.mp3
 	cd ..
 	rm -rf ./_tmp_youtube_dl
 	;;
