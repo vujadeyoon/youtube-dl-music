@@ -20,7 +20,7 @@
 - DOWNLADING CONTENT THAT VIOLATES COPYRIGHT IS PROHIBITED.
 - YOU ARE RESPONSIBLE FOR ALL ACTS RESULTING FROM DOWNLOADING YOUTUBE CONTENTS.
 - I respect and follow the Google YouTube policies. Also, I respect and comply with the rights of the YouTube creator's works (i.e. vidoes, audios and any other contents of the YouTube). Thus, I prohibit acts that do not comply with YouTube content copyright and Google YouTube poilices.
-- It is stated that any problems arising from illegally obtained the YouTube contents (e.g. copyright problems) have nothing to do with this GitHub author. Thus, You must get a copyright of a YouTube content you want form the YouTube creator.
+- It is stated that any problems arising from illegally obtained the YouTube contents (e.g. copyright problems) have nothing to do with this GitHub author. Thus, you must get a copyright of a YouTube content you want form the YouTube creator.
 - Please note that the only providen bash codes comply with the MIT license.
 
 
