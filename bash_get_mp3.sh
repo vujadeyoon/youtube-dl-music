@@ -30,8 +30,8 @@ function _check_a_param() {
 
 function check_params() {
 	param_1=$1
-  param_2=$2
-  param_3=$3
+        param_2=$2
+        param_3=$3
 
 	_check_a_param ${param_1}
 	_check_a_param ${param_2}
