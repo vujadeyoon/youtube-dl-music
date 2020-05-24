@@ -49,7 +49,7 @@ check_params ${URL} ${NAME_MP3} ${FORMAT}
 
 case ${cumsum_params} in
 "1")
-	echo "Get the video information form the YouTube."
+	echo "Get the audio format form the YouTube."
 	youtube-dl -F ${URL}
 	;;
 
